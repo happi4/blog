@@ -1,4 +1,4 @@
-baseURL = 'http://happi4.github.io/'
+baseURL = 'https://happi4.github.io/'
 languageCode = 'en-us'
 title = 'AnalyticsLogic Blog'
 metaDataFormat = "yaml"
