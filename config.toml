@@ -14,8 +14,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Arsenal PSG"
       introSubtitle = "I love football/soccer."
-      introPhoto = "/picture.jpg"
-      # logo = "/blist-logo.png"
+      introPhoto = "pic.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
