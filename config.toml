@@ -1,6 +1,6 @@
 baseURL = 'https://happi4.github.io/'
 languageCode = 'en-us'
-title = 'AnalyticsLogic Blog'
+title = 'AnalyticsLogic'
 metaDataFormat = "yaml"
 theme = "blist"
 
@@ -12,9 +12,9 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Arsenal PSG"
-      introSubtitle = "I love football/soccer."
-      introPhoto = "pic.jpg"
+      introTitle = "Powering Data-Driven Decision Making"
+      introSubtitle = "AnalyticsLogic brings to you expert knowledge of Big Data, Business Intelligence (BI) and Data Analytics to guide you in your BI planning and implementation choices."
+      introPhoto = "homepage.jpg"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -52,7 +52,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - AnalyticsLogic · All rights reserved"
+  copyright = "Copyright © 2023 - AnalyticsLogic · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
